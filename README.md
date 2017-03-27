@@ -1,4 +1,4 @@
-spring_mvc_base
+Fitness tracker
 ===============
 
 Base project used for my Pluralsight Spring JPA and Spring Security courses among others.
